@@ -1,3 +1,4 @@
+/* /123 */
 :root {
     --primary-font: "Montserrat", sans-serif;
 
@@ -63,9 +64,6 @@ button {
     margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
-
-    Outline: 2px solid red;
-    Outline-offset: -2px;
 }
 
 .section {
