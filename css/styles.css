@@ -64,8 +64,8 @@ button {
     padding-left: 15px;
     padding-right: 15px;
 
-    /* Outline: 2px solid red;
-    Outline-offset: -2px; */
+    Outline: 2px solid red;
+    Outline-offset: -2px;
 }
 
 .section {
